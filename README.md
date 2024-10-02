@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Attendance Demo](https://youtu.be/bI9KGWOLJfE)
+![Attendance Demo](.readme_assets/Screen Recording 2024-10-02 at 5.53.06 PM.mov)
 
 The Attendance Percentage Calculator is a web application designed to help students easily determine their attendance percentage and manage their attendance records effectively. Users can find out how many days they can bunk while still maintaining the required attendance percentage or how many more classes they need to attend to reach that percentage.
 
